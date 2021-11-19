@@ -1,0 +1,38 @@
+.content{
+	background-color: #434750;
+	 border:2px solid #d1a7c4;
+	 color: white;
+
+}
+
+
+.cont{
+	background-color: #1f0e11;
+	width: 390px;
+	height: 580px;
+	
+}
+
+.str{
+	padding:15px;
+    border:2px solid #d1a7c4;
+	color: white;
+}
+
+.str p{
+	font-size:15px;
+	color: white;
+}
+
+.str button{
+	color: black;
+	background-color: #5e344e;
+	
+}
+
+.kart img{
+	width: 350px;
+	height: 249px;
+	box-shadow: 0 0 5px 2px;
+
+}
